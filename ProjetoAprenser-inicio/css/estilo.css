@@ -64,6 +64,13 @@ nav a {
     color: #fafafa;
 }
 
+.wrapperContainer-fixed {
+    position: sticky;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
 
 .container {
     max-width: 127.6rem;
@@ -186,4 +193,8 @@ nav a {
 
 .section_footer a {
     color: white;
+}
+
+.wrapperContainer-padded {
+    padding-top: 12rem;
 }
